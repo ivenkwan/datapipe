@@ -1,0 +1,4 @@
+https://python.gotrained.com/python-json-api-tutorial/
+
+https://schoolofdata.org/2013/11/18/web-apis-for-non-programmers/?__cf_chl_jschl_tk__=2b5aa9a5d3b10c008eaa26d8380ce85917067ca7-1576420427-0-Ab5VNsU3vsyM9O-7diL3Eo5S4z3f9mcoG22xHkdp1N4y4VmZX2cOFutT5c69vcSGGtrhp9hHKWqQw3ue7NbP_iEpZeGTHr1QqSX-7wfdBCUiIp45GU9wtmqvaS_KYUvNpol4Qc6eeRGf7y0r4v6-xnIXh-21d_e-VAdK71OKATPRr3pDkVX59TkdDGpEeFObkwON2T1YTLUGt9mSTBJDnF-UqhokL4tn8c0kXjlJRMSehm3uNrh8rRwkt_3S6NgYIGjr5A-YtCXqzl6z30xHd-MuaqWb_jdzzWC4a0QeCRh0eCca5R5zbtczW98DhKtliQ
+
